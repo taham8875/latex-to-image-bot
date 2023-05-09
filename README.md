@@ -35,7 +35,7 @@ To test locally
 
 1. Clone the repo
 ```sh
-git clone 
+git clone git@github.com:taham8875/latex-to-image-bot.git
 ```
 
 2. Install dependencies
