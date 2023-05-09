@@ -6,7 +6,7 @@ Telegram bot built using Go programming language that allows users to convert La
 
 <!-- PROJECT LOGO -->
 <div align="center">
-    <img src="readme_assets/logo.png" alt="Logo" width="200" height="200">
+    <img src="readme_assets/bot-logo.png" alt="Logo" width="200" height="200">
 </div>
 
 
