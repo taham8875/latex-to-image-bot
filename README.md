@@ -6,7 +6,7 @@ Telegram bot built using Go programming language that allows users to convert La
 
 <!-- PROJECT LOGO -->
 <div align="center">
-    <img src="readme_assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="readme_assets/logo.png" alt="Logo" width="200" height="200">
 </div>
 
 
@@ -30,9 +30,9 @@ Telegram bot built using Go programming language that allows users to convert La
 To test locally 
 
 1. Clone the repo
-   ```sh
-   git clone 
-    ```
+```sh
+git clone 
+```
 
 2. Install dependencies
 
